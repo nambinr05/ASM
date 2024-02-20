@@ -1,0 +1,14 @@
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\bin\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.exe
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\bin\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.deps.json
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\bin\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.runtimeconfig.json
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\bin\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.dll
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\bin\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.pdb
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.AssemblyInfoInputs.cache
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.AssemblyInfo.cs
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.csproj.CoreCompileInputs.cache
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.dll
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\refint\Asm_st1_Nguyen Hoang Nam_BH01612.dll
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.pdb
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.genruntimeconfig.cache
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\ref\Asm_st1_Nguyen Hoang Nam_BH01612.dll
