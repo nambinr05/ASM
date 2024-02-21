@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Water bill calculation program");
 // declare the function to process the program
 void CalculateWaterBill()
 {
@@ -76,15 +76,58 @@ void CalculateWaterBill()
     else if (typeCustomer == 3)
     {
         // manufacturing unit customer
+        Console.Write("Enter the previous month's water meter reading: ");
+        int previousWaterIndex3 = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter the water meter reading for this month: ");
+        int currentWaterIndex3 = int.Parse(Console.ReadLine()); ;
+        if (currentWaterIndex3 >= previousWaterIndex3)
+        {
+            int consumption3 = currentWaterIndex3 - previousWaterIndex3;
+
+            double totalWaterBill3 = consumption3 * 11615 * 1.1;
+            Console.WriteLine("\nInvoice Information:");
+            Console.WriteLine("Customer Name: " + customer);
+            Console.WriteLine("Previous month's water meter reading: " + previousWaterIndex3);
+            Console.WriteLine("Water meter reading for this month: " + currentWaterIndex3);
+            Console.WriteLine("Consumption: " + consumption3 + " m3");
+            Console.WriteLine("Total water bill (excluding VAT): " + totalWaterBill3.ToString("N2") + " VND");
+        }
+        else
+        {
+            Console.WriteLine("The water consumption of the previous month cannot be greater that that of the current month.");
+        }
     }
+
     else if (typeCustomer == 4)
     {
         // business customer
+        Console.Write("Enter the previous month's water meter reading: ");
+        int previousWaterIndex4 = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter the water meter reading for this month: ");
+        int currentWaterIndex4 = int.Parse(Console.ReadLine());
+        if (currentWaterIndex4 >= previousWaterIndex4)
+        {
+            int consumption4 = currentWaterIndex4 - previousWaterIndex4;
+            double totalWaterBill4 = consumption4 * 22068 * 1.1;
+            Console.WriteLine("\nInvoice Information:");
+            Console.WriteLine("Customer Name: " + customer);
+            Console.WriteLine("Previous month's water meter reading: " + previousWaterIndex4);
+            Console.WriteLine("Water meter reading for this month: " + currentWaterIndex4);
+            Console.WriteLine("Consumption: " + consumption4 + " m3");
+            Console.WriteLine("Total water bill (excluding VAT): " + totalWaterBill4.ToString("N2") + " VND");
+        }
+        else
+        {
+            Console.WriteLine("Please enter the correct customer category");
+        }
     }
     else
     {
-        Console.WriteLine("Please enter the correct customer type");
+        Console.WriteLine("Please enter the correct customer type.");
     }
 }
 // run the program
+
 CalculateWaterBill();

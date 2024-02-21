@@ -12,3 +12,4 @@ D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj
 D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.pdb
 D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.genruntimeconfig.cache
 D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\ref\Asm_st1_Nguyen Hoang Nam_BH01612.dll
+D:\program\Asm_st1_Nguyen Hoang Nam_BH01612\Asm_st1_Nguyen Hoang Nam_BH01612\obj\Debug\net8.0\Asm_st1_Nguyen Hoang Nam_BH01612.sourcelink.json
